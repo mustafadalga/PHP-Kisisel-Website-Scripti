@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^index(/?)$ index.php
+RewriteRule ^admin/login(/?)$ admin/login.php
+RewriteRule ^admin/index(/?)$ admin/index.php
+
+
