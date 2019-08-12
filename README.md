@@ -11,14 +11,14 @@
 
 
 #### Admin Paneli Default Giriş Bilgileri
-* email: admin@admin.com
-* parola: admin
+* E-mail: admin@admin.com
+* Parola: admin
 
 
 #### Script Demosu
-* link : https://apierson.com/project/
-* admin paneli: https://apierson.com/project/admin
+* Link : https://apierson.com/project/
+* Admin paneli: https://apierson.com/project/admin
 * Admin paneli default giriş bilgileri;  
-   - email: &nbsp;admin@admin.com  
-   - parola: admin
+   - E-mail: &nbsp;admin@admin.com  
+   - Parola: admin
 
