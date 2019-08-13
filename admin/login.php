@@ -2,7 +2,7 @@
 include "../config/db.php";
 include "fonksiyonlar.php";
 session_start();
-OturumAcikmi() ? header("Location: admin") : "";
+OturumAcikmi() ? header("Location: index") : "";
 if ($_POST)
 {
     $email=checkInput($_POST['email']);
@@ -79,7 +79,7 @@ if ($_POST)
                             <div class="form-group row">
                                 <div class="col-md-6 offset-md-4 mt-2">
                                     <?php if(isset($uyari)) : ?>
-                                    <div class="alert alert-info">
+                                    <div class="alert alert-info text-center">
                                         <?=$uyari;?>
                                         <?php if (strpos($uyari,"başarılı")):?>
                                         <script>
