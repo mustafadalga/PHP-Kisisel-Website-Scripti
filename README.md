@@ -15,13 +15,6 @@
 * Parola: admin
 
 
-#### Script Demosu
-* Link : https://apierson.com/project/
-* Admin paneli: https://apierson.com/project/admin
-* Admin paneli default giriş bilgileri;  
-   - E-mail: &nbsp;admin@admin.com  
-   - Parola: admin
-
 
 ### Ekran Görüntüleri
 
